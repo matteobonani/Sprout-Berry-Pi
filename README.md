@@ -29,7 +29,7 @@ We used the explorerhat library to exploit the variety of functions, given by th
 ## 5. Project Requirements
 
 The input devices are:
-1.  moisture sensor: it taakes the soil humidity from where the plant is planted
+1.  moisture sensor: it takes the soil humidity from where the plant is planted
 2.  touchpad button 1 on the explorer hat: It retrives ,using the openweathermap api, the current temperature of Bolzano.
 3.  touchpad button 3 decrements the running time of the pump.
 4.  touchpad button 4 increments the running time of the pump.
