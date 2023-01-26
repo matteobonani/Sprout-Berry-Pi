@@ -34,7 +34,7 @@ The input devices are:
 3.  touchpad button 3 decrements the running time of the pump.
 4.  touchpad button 4 increments the running time of the pump.
 
-The 2 output deices are:
+The output devices are:
 1.  water pump: it pump the water into the soil 
 2.  speaker: is used for speak out loud the current temperature of Bolzano or the running time of the pump, according to the button pressed.
 
