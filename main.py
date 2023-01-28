@@ -82,7 +82,8 @@ def increment_pump_time():
 def decrement_pump_time():
     global pump_time
     with lock:
-        pump_time -= 1        
+        if pump_time > 1:
+            pump_time -= 1       
 
 # Create the first thread
 first_thread = threading.Thread(target=check_humidity)
