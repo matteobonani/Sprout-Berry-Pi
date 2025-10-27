@@ -2,7 +2,7 @@
 
 ## 1. About
 
-Our project is a simple watering plant system
+A simple watering plant system
 
 
 
