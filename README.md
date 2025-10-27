@@ -2,7 +2,7 @@
 
 ## 1. About
 
-A simple watering plant system
+A simple Raspberry Pi–based automatic plant watering system.
 
 
 
